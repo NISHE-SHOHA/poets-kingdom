@@ -1,0 +1,13 @@
+.header-info{
+    text-align: center;
+    background-color: purple;
+    color: white;
+    border: 2px solid gold;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.texts-info{
+    font-weight: 400;
+}

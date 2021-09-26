@@ -1,0 +1,11 @@
+.btn{
+    background-color: purple;
+    color: white;
+    border: 1px solid gold;
+    font-weight: 600;
+    border-radius: 10px;
+}
+.poets-add{
+    color: purple;
+    font-weight: 600;
+}
